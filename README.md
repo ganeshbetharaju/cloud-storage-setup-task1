@@ -34,11 +34,10 @@ With the bucket created, the next step was to add content and make it accessible
 The task result is a fully configured S3 bucket with files that are accessible publicly, as demonstrated by the screenshots below[cite: 25].
 
 #### 1. Bucket with Uploaded Files
-<img width="1920" height="1080" alt="Screenshot 2025-08-15 001259" src="https://github.com/user-attachments/assets/345908b8-0e90-488c-8e52-e690e7ed0b7e" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9b1fbe47-1814-4119-a775-d47a4f8e9e60" />
 
 
 #### 2. Public Access Permissions Confirmed
-<img width="1920" height="1080" alt="Screenshot 2025-08-15 001426" src="https://github.com/user-attachments/assets/1f19c90f-4d33-40ae-bcd5-0e9e45985ef9" />
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/82265722-09f1-4bf5-a95f-5a8669740b29" />
 
 ---
