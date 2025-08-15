@@ -1,3 +1,17 @@
+#CloudComputing
+
+**Company**: CODTECH IT SOLUTIONS
+
+**Name**: BETHARAJU GANESH
+
+**Intern ID**: CT04DZ2046
+
+**Domain**: CLOUD COMPUTING
+
+**Duration**: 4 Weeks
+
+**Mentor**: NEELA SANTHOSH
+
 # Codetech Cloud Computing Internship Project
 
 This repository documents my work for the Codetech Cloud Computing Internship.
